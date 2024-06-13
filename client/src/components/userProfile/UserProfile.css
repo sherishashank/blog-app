@@ -1,0 +1,16 @@
+.userProfilebg{
+    min-height: 100vh;
+ 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.articles  {
+    
+    border-radius: 5px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

@@ -1,0 +1,19 @@
+.bgc{
+    background-color: rgb(66, 0, 16);
+}
+
+.navComponent{
+    color: #1b83d8
+}
+.navComponent:hover{
+    color: rgb(86, 176, 232);
+}
+.active{
+    color: rgb(0, 145, 255) !important;
+    
+    border-bottom:1px solid #f5ca54;
+}
+
+.usernameColor{
+    color: rgb(50, 153, 216);
+}
